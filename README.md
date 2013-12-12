@@ -1,0 +1,4 @@
+freecoin
+========
+
+Cryptocurrency coin
